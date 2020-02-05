@@ -1,0 +1,116 @@
+.ml-1{
+	margin-left:20px; 
+}
+
+.ml-2{
+	margin-left:30px; 
+}
+
+.mt-1{
+	margin-top: 19px;
+}
+
+.mt-2{
+	margin-top: 30px;
+}
+
+#input{
+	width: 86%;
+	color: #ffffff;
+}
+
+.btnw{
+	width: 50%;
+}
+
+.bg1{
+	/*background:  url("bg.jpg");
+	background-repeat: cover;
+	background-position: center;*/
+	
+  /* fallback colour. Make sure this is just one solid colour. */
+    /*background: -webkit-linear-gradient(rgba(29, 38, 113, 0.2), rgba(195, 55, 100, 0.8)), url("bg.jpg");*/
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("bg.jpg"); /* The least supported option. */
+    /*background-repeat: cover;*/
+	background-position: center;
+	 background-size: cover;
+
+}
+
+.front{
+        padding: 20px;
+         background: linear-gradient( rgba(0, 0, 0, 0.88),  rgba(0, 0, 0, 0.88)), url("csa.png");
+        background-size: cover;
+        background-position: top;
+        /*background: rgba(70, 4, 7, 0.86);*/
+        color: #fff;
+        font:  Verdana, sans-serif;
+     }
+
+.nav1{
+	background:linear-gradient( rgba(70, 4, 7, 0.86),  rgba(70, 4, 7, 0.86));	
+}
+
+
+.bg2{
+	/*background:  url("bg.jpg");
+	background-repeat: cover;
+	background-position: center;*/
+	
+  /* fallback colour. Make sure this is just one solid colour. */
+    /*background: -webkit-linear-gradient(rgba(29, 38, 113, 0.2), rgba(195, 55, 100, 0.8)), url("bg.jpg");*/
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("music.jpg"); /* The least supported option. */
+    /*background-repeat: cover;*/
+	/*background-position: bottom;*/
+	 background-size: cover;
+
+}
+
+
+.front2{
+        padding: 20px;
+         background: linear-gradient( rgba(0, 0, 0, 0.86),  rgba(0, 0, 0, 0.86)), url("csa.png");
+        background-size: cover;
+        background-position: top;
+        /*background: rgba(70, 4, 7, 0.86);*/
+        color: #fff;
+        font:  Verdana, sans-serif;
+        height: 350px;
+     }
+
+
+
+     .front3{
+        padding: 20px;
+        background: linear-gradient( rgba(70, 4, 7, 0.86),  rgba(70, 4, 7, 0.86)), url("dinner.jpg");
+        background-size: cover;
+        background-position: top;
+        /*background: rgba(70, 4, 7, 0.86);*/
+        color: #fff;
+        font:  Verdana, sans-serif;
+        height: 300px;
+     }
+
+
+     .color1{
+			color: #5E1316;
+     }
+
+     .color2{
+     	color:#26a69a;
+     }
+
+
+
+.front4{
+        padding: 20px;
+         background: linear-gradient( rgba(0, 0, 0, 0.86),  rgba(0, 0, 0, 0.86)), url("bg2.jpeg");
+        background-size: cover;
+        background-position: top;
+        /*background: rgba(70, 4, 7, 0.86);*/
+        color: #fff;
+        font:  Verdana, sans-serif;
+        height: 350px;
+     }
+
+     
